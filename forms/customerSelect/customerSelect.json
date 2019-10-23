@@ -18,6 +18,24 @@
         "Elements", 
         "company.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerSelect", 
+        "Elements", 
+        "btnCorpName.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerSelect", 
+        "Elements", 
+        "lblCorpList.json"
+      ]
     }
   ], 
   "class": "", 
