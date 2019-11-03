@@ -14,27 +14,27 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdd", 
         "Elements", 
-        "txtaState.json"
+        "inptCustName.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdd", 
         "Elements", 
-        "btnCorpName.json"
+        "btnAddName.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "customerSelect", 
+        "customerAdd", 
         "Elements", 
-        "txtaComName.json"
+        "txtaReturn.json"
       ]
     }
   ], 
@@ -44,7 +44,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "customerSelect", 
+  "id": "customerAdd", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -52,7 +52,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "customerSelect.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
