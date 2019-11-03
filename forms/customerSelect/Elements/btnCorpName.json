@@ -35,7 +35,7 @@
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnCorpName.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
