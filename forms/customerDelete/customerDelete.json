@@ -25,7 +25,7 @@
         "forms", 
         "customerDelete", 
         "Elements", 
-        "txtaDelete.json"
+        "lblDelete.json"
       ]
     }, 
     {
@@ -34,7 +34,7 @@
         "forms", 
         "customerDelete", 
         "Elements", 
-        "inptComName.json"
+        "txtaCusName.json"
       ]
     }
   ], 
